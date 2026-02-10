@@ -1,0 +1,13 @@
+body{
+    all: none;
+}
+
+h1 {
+    color: #c94aff;
+    text-shadow: 0 0 3px #ac0ff0;
+    text-align: center;
+}
+
+h2{
+    color: antiquewhite;
+}
